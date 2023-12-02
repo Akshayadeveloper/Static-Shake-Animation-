@@ -1,2 +1,3 @@
 # Static-Shake-Animation-
-https://github.com/Akshayadeveloper/Static-Shake-Animation-/blob/main/%23Semanti-UI-Shake-Image.html
+https://akshayadeveloper.github.io/Static-Shake-Animation-/%23Semanti-UI-Shake-Image.html
+
